@@ -1,6 +1,6 @@
 body {
-    background-color: #EFE2BA;
-    color: #4056A1
+    background-color: #41B3A3;
+    color: #FFFFFF;
   }
   .center {
     display: block;
@@ -13,8 +13,8 @@ body {
   }
   img {
      padding:3px;
-     border:1px solid #021a40;
-     background-color:#F13C20;
+     border:1px solid 021a40;
+     background-color:#C38D9E;
   }
   ul.b {
     list-style-type: square;
