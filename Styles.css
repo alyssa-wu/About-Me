@@ -18,3 +18,7 @@ body {
   }
   ul.b {
     list-style-type: square;
+  }
+  p {
+      text-align: center;
+  }
